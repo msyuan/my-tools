@@ -6,7 +6,7 @@
 
 [我的工具(MT)](https://github.com/msyuan/my-tools)，是一个本地桌面客户端分类工具，可以自主定义和管理您的工具网址分类。
 
-![](./docs/help/images/explain-01.png)
+![](/docs/help/images/explain-01.png)
 
 
 个人博客： [前端吧 - http://www.qianduan8.com/](http://www.qianduan8.com/) 
