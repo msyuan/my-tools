@@ -1,0 +1,28 @@
+{
+  "name": "my-tools",
+  "version": "1.0.0",
+  "description": "一个我的分类我做主的分类工具",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "keywords": [],
+  "author": {
+    "name": "LaoYuan",
+    "url": "http://www.qianduan8.com"
+  },
+  "license": "GPL",
+  "devDependencies": {
+    "@mdit-vue/shared": "^1.0.0",
+    "prettier": "^3.0.3",
+    "sass": "^1.68.0",
+    "vitepress": "^1.3.0",
+    "vue": "^3.4.31"
+  },
+  "dependencies": {
+    "element-plus": "^2.3.14",
+    "lodash.debounce": "^4.0.8"
+  }
+}
