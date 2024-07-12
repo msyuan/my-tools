@@ -10,7 +10,7 @@
     actions:
     - theme: brand
       text: 立即下载(win版本)
-      link: /down/page
+      link: http://www.qianduan8.com/demo/我的工具-1.0.0-setup.exe
     - theme: alt
       text: 功能说明
       link: /introduction/page

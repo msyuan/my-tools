@@ -1,3 +1,8 @@
+<!--
+ * @Description: Description
+ * @Author: laoyuan
+ * @Date: 2024-07-10 21:06:26
+-->
 <template>
     <div class="ui-down-header">
       <div class="title">下载我的工具客户端</div>
@@ -7,7 +12,8 @@
       <div class="item">
         <img class="img" src="../../../public/window.png" alt="windows">
         <p class="info">windows版（仅支持Win 10 及以上系统）</p>
-        <a class="btn" download="../../../public/window.png" href="../../../public/window.png">点击下载</a>
+        <a class="btn" download="http://www.qianduan8.com/demo/我的工具-1.0.0-setup.exe" href="http://www.qianduan8.com/demo/我的工具-1.0.0-setup.exe">点击下载</a>
+        <p class="prompt">文件是干净和安全的，请放心下载</p>
       </div>
     </div>
 </template>
@@ -39,7 +45,7 @@
     justify-content: center;
     .item {
       width: 50%;
-      height: 250px;
+      height: 280px;
       border-radius: 12px;
       background-color: #fff;
       column-gap: 20px;
@@ -69,6 +75,11 @@
       }
       .btn:hover {
         filter: brightness(1.1) !important;
+      }
+      .prompt {
+        font-size: 14px;
+        color: var(--vp-c-brand-1);
+        margin-top: 10px;
       }
     }
   }
