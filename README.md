@@ -1,22 +1,21 @@
-# my-tools(MT)  我的工具 
+# my-tools(MT) - 我的工具 
 
-本项目是我的工具的官网
+本项目是我的工具的官网展示
 
-**我的分类我做主的分类工具**
+[我的工具(MT)](http://www.qianduan8.com/mytools/index.html?_blank)，是一个本地桌面客户端分类工具，可以自主定义和管理您的工具网址分类。
 
-[我的工具(MT)](https://github.com/msyuan/my-tools)，是一个本地桌面客户端分类工具，可以自主定义和管理您的工具网址分类。
+宗旨： **我的分类我做主的**
 
-![](/docs/help/images/explain-01.png)
+博客： [前端吧 - http://www.qianduan8.com/](http://www.qianduan8.com/) 
 
-
-个人博客： [前端吧 - http://www.qianduan8.com/](http://www.qianduan8.com/) 
+![我的工具](http://www.qianduan8.com/mytools/product.png)
 
 
 ## 下载安装
 
 去官网下载直接安装即可
 
-[我的工具官网](http://www.qianduan8.com/?_blank)
+[我的工具官网](http://www.qianduan8.com/mytools/index.html?_blank)
 
 ## 使用说明
 
